@@ -3,7 +3,7 @@
     "displayName": "Dark White Theme V1",
     "description": "Dark White Theme V1",
     "publisher": "ELITE NOTORIOUS THE PRESTIGIOUS",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "repository": {
 	"type": "git",
 	"url": "https://github.com/ENTPRESTIGIOUS/dark-white-theme-v1"
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dark White Theme V1",
+                "label": "Dark White Theme V1.1",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dark White Theme V1-color-theme.json"
+                "path": "./themes/dark-white-theme-v1-1-color-theme.json"
             }
         ]
     }

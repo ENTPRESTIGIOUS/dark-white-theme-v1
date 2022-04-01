@@ -1,5 +1,5 @@
 {
-  "name": "Dark White Theme V1",
+  "name": "Dark White Theme V1.1",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1846,7 +1846,7 @@
   ],
   "colors": {
     "foreground": "#ffffff",
-    "focusBorder": "#3b3b3b",
+    "focusBorder": "#905959",
     "selection.background": "#5a5a5a",
     "scrollbar.shadow": "#ffffff",
     "activityBar.foreground": "#ffffff",
@@ -1889,7 +1889,7 @@
     "statusBar.noFolderBorder": "#000000",
     "statusBarItem.remoteBackground": "#ff0000",
     "statusBarItem.remoteForeground": "#ffffff",
-    "titleBar.activeBackground": "#3c3c3c",
+    "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveBackground": "#3c3c3c99",
     "titleBar.inactiveForeground": "#cccccc99",
@@ -1914,7 +1914,7 @@
     "input.border": "#00000000",
     "input.foreground": "#cccccc",
     "inputOption.activeBackground": "#ffffff66",
-    "inputOption.activeBorder": "#ffffff",
+    "inputOption.activeBorder": "#3b2828",
     "inputOption.activeForeground": "#ffffff",
     "input.placeholderForeground": "#ffffff",
     "textLink.foreground": "#ff0000",
