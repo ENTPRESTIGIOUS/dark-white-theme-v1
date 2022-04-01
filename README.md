@@ -1,6 +1,6 @@
 Dark White Theme V1.1
 
-![downloads](https://img.shields.io/github/downloads/ENTPRESTIGIOUS/dark-white-theme-v1/total)
+![downloads](https://img.shields.io/github/downloads/ENTPRESTIGIOUS/dark-white-theme-v1/total) ![releases](https://img.shields.io/github/v/release/ENTPRESTIGIOUS/dark-white-theme-v1)
 
 ![image](https://user-images.githubusercontent.com/45579671/161346823-47cb6bb4-d160-446d-be74-2114b315428f.png)
 ![image](https://user-images.githubusercontent.com/45579671/161346766-de579968-7d9c-4cff-80cb-e0861e05e0ce.png)
